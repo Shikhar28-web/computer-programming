@@ -1,0 +1,1 @@
+# Write a function that takes a list of tuples and returns a dictionary where the first element of each tuple is the key and the second element is the value.
